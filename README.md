@@ -27,4 +27,4 @@ Se utilizo:
 
 ## Control de versiones
 
-[GitLab](https://gitlab.com/) para el control de versiones. Para las versiones disponibles, consulte el [Repositorio](https://gitlab.com/anthonycardona/Portafolio).
+[github](https://github.com/) para el control de versiones. Para las versiones disponibles, consulte el [Repositorio](https://github.com/Anthony0912/calculator).
