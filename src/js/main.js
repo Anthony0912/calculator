@@ -1,6 +1,6 @@
 const screen = document.getElementById("screen");
-screen.focus();
 screen.disabled = true;
+screen.focus();
 
 let operator;
 let data_1;
