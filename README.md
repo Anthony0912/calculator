@@ -19,7 +19,6 @@ Se utilizo:
 - HTML5
 - JAVA SCRIPT
 - CSS
-- PHP
 
 ## Contribuidores
 
